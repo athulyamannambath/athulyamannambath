@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @athulyamannambath
+- 👋 Hi, I’m @Athulya Mannambath
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Bigdata Analytics and Data Science
 - 💞️ I’m looking to collaborate on Data Scientist
